@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\ashfaque\\.gradle\\daemon\\8.0\\com.example.emanager.app-mergeDebugResources-28:\\layout\\fragment_add_transaction.xml",
+        "source": "C:\\Users\\ashfaque\\.gradle\\daemon\\8.0\\com.example.emanager.app-main-31:\\layout\\fragment_add_transaction.xml"
+    },
+    {
+        "merged": "com.example.emanager.app-mergeDebugResources-28:/layout/activity_main.xml",
+        "source": "com.example.emanager.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ashfaque\\.gradle\\daemon\\8.0\\com.example.emanager.app-mergeDebugResources-28:\\layout\\sample_category_item.xml",
+        "source": "C:\\Users\\ashfaque\\.gradle\\daemon\\8.0\\com.example.emanager.app-main-31:\\layout\\sample_category_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ashfaque\\.gradle\\daemon\\8.0\\com.example.emanager.app-mergeDebugResources-28:\\layout\\list_dialog.xml",
+        "source": "C:\\Users\\ashfaque\\.gradle\\daemon\\8.0\\com.example.emanager.app-main-31:\\layout\\list_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\ashfaque\\.gradle\\daemon\\8.0\\com.example.emanager.app-mergeDebugResources-28:\\layout\\row_account.xml",
+        "source": "C:\\Users\\ashfaque\\.gradle\\daemon\\8.0\\com.example.emanager.app-main-31:\\layout\\row_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\ashfaque\\.gradle\\daemon\\8.0\\com.example.emanager.app-mergeDebugResources-28:\\layout\\row_transaction.xml",
+        "source": "C:\\Users\\ashfaque\\.gradle\\daemon\\8.0\\com.example.emanager.app-main-31:\\layout\\row_transaction.xml"
+    },
+    {
+        "merged": "C:\\Users\\ashfaque\\.gradle\\daemon\\8.0\\com.example.emanager.app-mergeDebugResources-28:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ashfaque\\.gradle\\daemon\\8.0\\com.example.emanager.app-main-31:\\layout\\activity_main.xml"
+    }
+]
